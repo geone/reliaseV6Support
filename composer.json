@@ -1,5 +1,5 @@
 {
-    "name": "reliese/laravelv6",
+    "name": "reliese-laravelV6/laravel",
     "description": "A composer upgrade to support Reliese Components for Laravel 6.x.x Framework code generation.",
     "keywords": ["reliese v6", "laravel"],
     "homepage": "http://cristianllanos.com",
