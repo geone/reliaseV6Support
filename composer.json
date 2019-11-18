@@ -1,7 +1,7 @@
 {
-    "name": "reliese/laravel",
-    "description": "Reliese Components for Laravel Framework code generation.",
-    "keywords": ["reliese", "laravel"],
+    "name": "reliese/laravelv6",
+    "description": "A composer upgrade to support Reliese Components for Laravel 6.x.x Framework code generation.",
+    "keywords": ["reliese v6", "laravel"],
     "homepage": "http://cristianllanos.com",
     "support": {
         "issues": "https://github.com/reliese/laravel/issues",
@@ -15,13 +15,13 @@
         }
     ],
     "require": {
-        "php": ">=5.6.4",
+        "php": ">=7",
         "doctrine/dbal": "~2.5",
-        "illuminate/support": "~5.1",
-        "illuminate/database": "~5.1",
-        "illuminate/contracts": "~5.1",
-        "illuminate/filesystem": "~5.1",
-        "illuminate/console": "~5.1"
+        "illuminate/support": "^5.5|^6",
+        "illuminate/database": "^5.5|^6",
+        "illuminate/contracts": "^5.5|^6",
+        "illuminate/filesystem": "^5.5|^6",
+        "illuminate/console": "^5.5|^6"
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
